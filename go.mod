@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/gin-gonic/gin v1.9.1
 	github.com/go-redis/redis v6.15.9+incompatible
-	github.com/justinas/nosurf v1.0.0
+	github.com/justinas/nosurf v1.1.1
 	github.com/spf13/viper v1.7.0
 	gorm.io/driver/mysql v1.4.4
 	gorm.io/gorm v1.25.2
