@@ -7,7 +7,7 @@ require (
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/justinas/nosurf v1.0.0
 	github.com/spf13/viper v1.7.0
-	gorm.io/driver/mysql v1.4.4
+	gorm.io/driver/mysql v1.5.1
 	gorm.io/gorm v1.25.2
 )
 
